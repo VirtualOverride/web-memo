@@ -1,0 +1,20 @@
+{
+  "name": "web-memo",
+  "homepage": "https://github.com/VirtualOverride/web-memo",
+  "description": "Web Memo Application",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.0",
+    "font-awesome": "^4.5.0"
+  }
+}
