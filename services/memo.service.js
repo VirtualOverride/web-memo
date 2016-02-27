@@ -18,6 +18,6 @@
     })();
     
     angular
-        .module('web-memo')
+        .module('memo')
         .service('MemoService', memoService);
 })();
